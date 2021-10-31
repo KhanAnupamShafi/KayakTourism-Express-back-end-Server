@@ -25,7 +25,7 @@ This project is deployed at [https://kayak-tourism.web.app/](https://kayak-touri
 ### Learn About This Project
 
 - An Kayak Tourism site provides various travel booking services for the clients
-- REST Api data is build with Node.js and Express.js. hosted from Heroku Live Server ,
+- REST Api data is build with <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> and <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> hosted from Heroku Live Server ,
 - Database Collections are stored at MongoDB Atlas (<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>).
 - React Custom hooks used for Firebase Authentication
 - React Routing enabled with private route using context api
@@ -42,7 +42,7 @@ This project is deployed at [https://kayak-tourism.web.app/](https://kayak-touri
 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>]
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />]
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>]
 
 ## 🚀 Web Frameworks / 📱 Library:
 
